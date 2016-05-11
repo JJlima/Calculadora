@@ -1,7 +1,7 @@
 
 public class Calculadora {
 	
-	//versao eu quero que de certo 1.0 
+	//versao eu quero que de certo 2.0 
 	public double Soma(double x,double y){
 		return x+y;
 		

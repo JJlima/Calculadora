@@ -7,7 +7,10 @@ public class AxeCalc {
 		
 		
 		
-		System.out.println(c.Dividir(8, 8));
+		System.out.println("Dividir: "+c.Soma(8, 8));
+		System.out.println("Soma: "+c.Soma(8, 8));
+		System.out.println("Subtrair: "+c.Subtrair(8, 8));
+		System.out.println("Multiplicar: "+c.Multiplicar(8, 8));
 
 	}
 
